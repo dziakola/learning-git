@@ -3,6 +3,6 @@ body {
     font-style: italic;
 
 }
-.inner-text{
+.inner-text, .song-title{
     text-align: center;
 }
